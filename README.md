@@ -11,6 +11,18 @@ Users can increase, decrease, or reset the counter value with just a click of a 
 The JavaScript Counter is a lightweight and responsive web app designed to help beginners understand the basics of DOM manipulation and event handling.  
 It's a great project to practice working with HTML structure, styling with CSS, and adding dynamic behavior using JavaScript.
 
+## 🚀 Live Preview
+
+👉 [ https://muhammadmoiz-stack.github.io/JavaScript--Counter-/](https://github.com/MuhammadMoiz-stack/JavaScript--Counter-)
+
+> Replace `yourusername` with your GitHub username and `your-repo-name` with the actual repository name.
+
+---
+
+
+
+ https://muhammadmoiz-stack.github.io/JavaScript--Counter-/
+
 The counter starts at zero and allows users to:
 
 - Increment the value
